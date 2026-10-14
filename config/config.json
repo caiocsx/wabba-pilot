@@ -1,0 +1,13 @@
+{
+  "window_title": "Wabbajack",
+  "target_buttons": [
+    "Slow download",
+    "Standard download"
+  ],
+  "max_click_retries": 5,
+  "poll_interval": 0.05,
+  "click_cooldown": 0.1,
+
+  "idle_warning_threshold": 1800,
+  "pause_hotkey": "ctrl+alt+p"
+}
